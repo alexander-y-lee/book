@@ -309,6 +309,7 @@ mpsc
 msvc
 MulAssign
 multibyte
+multiline
 multithreaded
 mutex
 mutex's
